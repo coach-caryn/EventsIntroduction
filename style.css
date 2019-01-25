@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://c1.staticflickr.com/8/7404/27575000132_0d9de769fc_b.jpg");
+  background-position: center ;
+  background-size: cover;
+  width: 100%;
+  margin: 0;
+}
+
+html, body {
+  height: 100%
+}
+
+#banner {
+  height: 150px;
+  background-color: white;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+#play {
+  width: 200px;
+  height: 100px;
+  border: 3px solid darkblue;
+  border-radius: 14%;
+  font-size: 26px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  background-color: lightskyblue;
+}
